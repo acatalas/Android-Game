@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacio4</string>
+    <string name="app_title">Aplicació</string>
+    <string name="play">Jugar</string>
+    <string name="configure">Configurar</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sortir</string>
+    <string name="text_acercade">Aquesta aplicació ha estat desarrollada com a exemple en el mòdul de Diseño d\'Interficies Web per
+        demostrar com es poden llançar noves activitats des de l\'activitat principal</string>
+    <string name="menuacercade">Sobre ...</string>
+    <string name="menuconfiguracio">Configuració</string>
+    <string name="menucercar">Cercar</string>
+    <string name="pa_key">preferencies_principal</string>
+    <string name="pa1_title">Reproduïr música</string>
+    <string name="pa1_summary">Es reprodueix música de fondo</string>
+    <string name="pa2_title">Tipus de gràfics</string>
+    <string name="pa2_summary">Escull la representació de gràfics</string>
+    <string name="pa3_title">Número de fragments</string>
+    <string name="pa3_summary">En quants troços es divideix un asteroide (%1$s)</string>
+    <string name="pa3_error1">Te que ser un número</string>
+    <string name="pa3_error2">Màxim nombre de fragments són 9</string>
+    <string name="pc1_title">Mode multijugador</string>
+    <string name="pa4_title">Activar mode multijugador</string>
+    <string name="pa4_summary">Activar mode multijugador en el joc</string>
+    <string name="pa5_title">Màxim de jugadors</string>
+    <string name="pa5_summary">Número màxim de jugadors en una partida</string>
+    <string name="pa6_title">Tipus de conexió</string>
+    <string name="pa6_summary">Escull el tipus de conexió</string>
+</resources>

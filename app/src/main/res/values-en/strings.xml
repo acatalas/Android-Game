@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application4</string>
+    <string name="app_title">Application</string>
+    <string name="play">Play</string>
+    <string name="configure">Configure</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="text_acercade">This application has been developed as an example for the module Web Interface Design to
+        demonstrate how new activities can be launched from the principal activity.</string>
+    <string name="menuacercade">About...</string>
+    <string name="menuconfiguracio">Configuration</string>
+    <string name="menucercar">Search</string>
+    <string name="pa_key">principal_preferences</string>
+    <string name="pa1_title">Play music</string>
+    <string name="pa1_summary">Music is played in the background</string>
+    <string name="pa2_title">Types of graphics</string>
+    <string name="pa2_summary">Choose the graphics representation</string>
+    <string name="pa3_title">Number of fragments</string>
+    <string name="pa3_summary">How many pieces does an asteroid divide itself in (%1$s)</string>
+    <string name="pa3_error1">Has to be a number</string>
+    <string name="pa3_error2">Maximum number of fragments are 9</string>
+    <string name="pc1_title">Multiplayer mode</string>
+    <string name="pa4_title">Activate multiplayer mode</string>
+    <string name="pa4_summary">Activate multiplayer mode in the game</string>
+    <string name="pa5_title">Maximum num. of players</string>
+    <string name="pa5_summary">Maximun number of players in a match</string>
+    <string name="pa6_title">Connection type</string>
+    <string name="pa6_summary">Chooses the connection type</string>
+</resources>

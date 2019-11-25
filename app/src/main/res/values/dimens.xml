@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_between_button">8dp</dimen>
+    <dimen name="half_padding_between_button">4dp</dimen>
+    <dimen name="menu_padding">60dp</dimen>
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="space_title_button">40dp</dimen>
+    <dimen name="recycler_view_padding">10dp</dimen>
+    <dimen name="list_element_padding">4dp</dimen>
+</resources>
